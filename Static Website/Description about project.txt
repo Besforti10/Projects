@@ -1,0 +1,7 @@
+Create static website, push in ECS
+1. Create image in ECR
+2. Create VPC,Subnets, Internet Gateway
+3. Create ECS cluster
+4. Create Taskdefinition
+5. Create ECS Service.
+6. Run static web in public ip 
