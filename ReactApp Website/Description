@@ -1,0 +1,4 @@
+Creating Dockerfile, creating Docker image and run into Docker for test.
+Deploying docker image into ECR and attached his version.
+Created ECS Cluster, Task Definition and ECS Service.
+Pushed into ECS via public IP.
